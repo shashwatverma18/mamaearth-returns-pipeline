@@ -1,0 +1,17 @@
+product_id,product_name,category,price
+P001,Mamaearth Nourishing Shampoo,Haircare,95
+P002,Mamaearth Conditioner,Haircare,135
+P003,Mamaearth Argan Hair Serum,Haircare,220
+P004,Mamaearth Hair Oil,Haircare,190
+P005,Mamaearth Beard Care,Haircare,260
+P006,Mamaearth Foaming Face Wash,Skincare,180
+P007,Mamaearth Vitamin C Face Cream,Skincare,240
+P008,Mamaearth Sunscreen Lotion,Skincare,310
+P009,Mamaearth Face Mask,Skincare,420
+P010,Mamaearth Baby Diapers,Babycare,140
+P011,Mamaearth Baby Lotion,Babycare,180
+P012,Mamaearth Baby Bath,Babycare,290
+P013,Mamaearth Baby Wipes,Babycare,360
+P014,Mamaearth Shaving Foam,PersonalCare,160
+P015,Mamaearth Deodorant,PersonalCare,210
+P016,Mamaearth Handwash,PersonalCare,275

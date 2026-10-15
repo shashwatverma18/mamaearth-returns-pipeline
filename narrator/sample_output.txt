@@ -1,0 +1,20 @@
+MAMAEARTH | RETURNS EXECUTIVE BRIEFING
+Regional Operations and Finance
+
+EXECUTIVE READOUT
+The ledger contains 180 orders, of which 19 unique orders were returned. Net revenue after returns is ₹86,247.92.
+
+RETURN HOTSPOTS
+CARD has the highest payment-method return rate at 24.3% (17 of 70 orders).
+Lucknow has the highest city return rate at 27.3% (9 of 33 orders).
+
+FINANCIAL POSITION
+Raw revenue is ₹99,860.20; clean revenue after duplicate removal is ₹97,358.30. The duplicate revenue delta is ₹2,501.90, and returned-order revenue is ₹11,110.38.
+Planning scenario: a 10% reduction in returns would avoid an estimated 1.9 returns and save approximately ₹285.00 in handling costs. This uses an assumed cost of ₹150.00 per avoided return; it is not a measured or guaranteed saving.
+
+RECOMMENDED ACTIONS
+1. Regional Operations: review the CARD and Lucknow return journeys first; test delivery confirmation, address validation, and clearer pre-purchase product information, then compare return rates with the current baseline.
+2. Finance: validate the assumed handling cost against actual reverse-logistics expenses and quantify contribution margin at risk before booking savings.
+3. Operations: reconcile duplicate submissions at order intake and monitor the monthly net-revenue trend alongside returned-order counts.
+
+The savings figure is directional because actual per-return costs and contribution margins were not supplied.
