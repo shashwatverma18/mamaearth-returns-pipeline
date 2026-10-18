@@ -1,17 +1,17 @@
 product_id,product_name,category,price
-P001,Mamaearth Nourishing Shampoo,Haircare,95
-P002,Mamaearth Conditioner,Haircare,135
-P003,Mamaearth Argan Hair Serum,Haircare,220
-P004,Mamaearth Hair Oil,Haircare,190
-P005,Mamaearth Beard Care,Haircare,260
-P006,Mamaearth Foaming Face Wash,Skincare,180
-P007,Mamaearth Vitamin C Face Cream,Skincare,240
-P008,Mamaearth Sunscreen Lotion,Skincare,310
-P009,Mamaearth Face Mask,Skincare,420
-P010,Mamaearth Baby Diapers,Babycare,140
-P011,Mamaearth Baby Lotion,Babycare,180
-P012,Mamaearth Baby Bath,Babycare,290
-P013,Mamaearth Baby Wipes,Babycare,360
-P014,Mamaearth Shaving Foam,PersonalCare,160
-P015,Mamaearth Deodorant,PersonalCare,210
-P016,Mamaearth Handwash,PersonalCare,275
+P01,Onion Hair Oil,Haircare,349
+P02,Onion Shampoo,Haircare,399
+P03,Argan Hair Mask,Haircare,599
+P04,Anti-Hairfall Serum,Haircare,649
+P05,Rice Water Conditioner,Haircare,349
+P06,Vitamin C Face Wash,Skincare,249
+P07,Vitamin C Serum,Skincare,699
+P08,Tea Tree Face Wash,Skincare,229
+P09,Ubtan Face Mask,Skincare,299
+P10,Rice Sunscreen SPF50,Skincare,449
+P11,Milky Soft Baby Lotion,Babycare,299
+P12,Baby Shampoo,Babycare,249
+P13,Baby Massage Oil,Babycare,279
+P14,Charcoal Deodorant,PersonalCare,199
+P15,Tea Tree Body Wash,PersonalCare,349
+P16,Aloe Vera Gel,PersonalCare,199

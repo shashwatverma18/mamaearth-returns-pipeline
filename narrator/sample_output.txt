@@ -1,20 +1,8 @@
-MAMAEARTH | RETURNS EXECUTIVE BRIEFING
-Regional Operations and Finance
+Situation
+The cleaned order revenue is INR 97,358.30, reconciled from raw revenue of INR 99,860.20. After correcting for quantity outliers, March 2026 is the peak month with order revenue of INR 20,318.90.
 
-EXECUTIVE READOUT
-The ledger contains 180 orders, of which 19 unique orders were returned. Net revenue after returns is ₹86,247.92.
+Complication
+Duplicate submissions account for INR 2,501.90 of the raw-to-clean revenue difference. COD has a 44.4% return rate versus 14.7% for CARD and 18.9% for UPI. The highest-risk segment is COD in Tier-2 cities at 54.5%. January's apparent order revenue of INR 29,582.10 falls to INR 11,637.10 after removing the two bulk-order outliers.
 
-RETURN HOTSPOTS
-CARD has the highest payment-method return rate at 24.3% (17 of 70 orders).
-Lucknow has the highest city return rate at 27.3% (9 of 33 orders).
-
-FINANCIAL POSITION
-Raw revenue is ₹99,860.20; clean revenue after duplicate removal is ₹97,358.30. The duplicate revenue delta is ₹2,501.90, and returned-order revenue is ₹11,110.38.
-Planning scenario: a 10% reduction in returns would avoid an estimated 1.9 returns and save approximately ₹285.00 in handling costs. This uses an assumed cost of ₹150.00 per avoided return; it is not a measured or guaranteed saving.
-
-RECOMMENDED ACTIONS
-1. Regional Operations: review the CARD and Lucknow return journeys first; test delivery confirmation, address validation, and clearer pre-purchase product information, then compare return rates with the current baseline.
-2. Finance: validate the assumed handling cost against actual reverse-logistics expenses and quantify contribution margin at risk before booking savings.
-3. Operations: reconcile duplicate submissions at order intake and monitor the monthly net-revenue trend alongside returned-order counts.
-
-The savings figure is directional because actual per-return costs and contribution margins were not supplied.
+Resolution
+Prioritize COD return reduction in Tier-2 cities, and monitor the corrected monthly series rather than the outlier-inflated January figure. Use March 2026 and its INR 20,318.90 order revenue as the corrected peak-month reference; continue reconciling duplicate orders before reporting revenue.
